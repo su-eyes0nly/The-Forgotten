@@ -34,7 +34,7 @@ class boss():
 		pass
 		
 	def minatour(self):
-		self.name = "Rotted Minator"
+		self.name = "Rotted Minotaur"
 		pass
 		
 	def doppleganger():

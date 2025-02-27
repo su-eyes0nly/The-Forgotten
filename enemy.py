@@ -42,4 +42,5 @@ class boss():
 		pass
 		
 	def finalBoss():
+		self.name ="World Eater"
 		pass
